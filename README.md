@@ -5,5 +5,5 @@ Among all employee related problems, employee attrition is one of the key proble
 
 KEYWORDS: Attrition, Retention, Managers, Employees and Organization.
 
-The Dataset ha sbeen visualize using tableau.
+The Dataset has sbeen visualize using tableau.
 https://bit.ly/3ZqzGBH
